@@ -20,13 +20,13 @@ And adds the `domain` object to the `person`:
 
 ```js
 {
-    email: 'joe@mailinator.com',
+    email: 'ilya@segment.io',
     // ..
     domain: {
-        name: 'mailinator.com',
-        description: ''
+        name: 'segment.io',
+        description: 'The ultimate analytics platform. Send your data to any service with the flick of...'
         google: {
-          link: ''
+          link: 'https://segment.io/'
         }
     }
 }
