@@ -1,0 +1,21 @@
+{
+  "name": "leader-google-domain",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "A leader plugin to google an emails domain",
+  "keywords": [
+    "leader",
+    "domain",
+    "email",
+    "google",
+    "plugin"
+  ],
+  "dependencies": {
+    "obj-case": "0.0.3",
+    "extend": "~1.2.1",
+    "google": "~0.3.2"
+  },
+  "devDependencies": {
+    "mocha": "~1.15.1"
+  }
+}
